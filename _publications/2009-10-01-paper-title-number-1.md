@@ -2,7 +2,7 @@
 title: "Functionalized MXene Films with Substantially Improved Low-Voltage Actuation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalization of MXene that improves the in-plane actuation strain, enhances the mechanical property, stability in air and the electrolyte'
+excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalization of MXene that improves the in-plane actuation strain, enhances the mechanical property, and stability in air & the electrolyte'
 date: 2023-10-03
 venue: 'Advanced Materials'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
