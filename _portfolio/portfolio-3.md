@@ -1,9 +1,9 @@
 ---
 title: "Training"
-excerpt: "<br> Open Science and Data Management - 2022 <br/>"
+excerpt: "<br> Webiniare on X-ray photoelectron spectroscopy(XPS) - 2021 <br/>"
 collection: portfolio
 ---
 
-<img src='/certificates/c2.jpg'>
+<img src='/certificates/c3.jpg'>
 
 
