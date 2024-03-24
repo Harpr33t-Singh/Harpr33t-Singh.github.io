@@ -1,5 +1,5 @@
 ---
-title: "Training"
+title: "Webiniare"
 excerpt: "<br> Webiniare on X-ray photoelectron spectroscopy(XPS) - 2021 <br/>"
 collection: portfolio
 ---
