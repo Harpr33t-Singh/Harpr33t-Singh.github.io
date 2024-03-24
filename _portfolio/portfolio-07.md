@@ -1,6 +1,6 @@
 ---
 title: "Workshop"
-excerpt: "<Workshop on Mass Spectroscopy - 2018 <br/>"
+excerpt: "<br> Workshop on Mass Spectroscopy - 2018 <br/>"
 collection: portfolio
 ---
 
