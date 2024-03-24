@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Training and Participations"
 excerpt: "<img src='/certificates/c1.jpg'>"
 collection: portfolio
 ---
