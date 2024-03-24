@@ -6,6 +6,7 @@ excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalizat
 date: 2023-10-03
 venue: 'Advanced Materials'
 paperurl: 'http://Harpr33t-Singh.github.io/files/Paper01.pdf'
+
 citation: 'Chen, Shaohua, Shu Fen Tan, Harpreet Singh, Liang Liu, Mathieu Etienne, and Pooi See Lee. (2023). &quot; Functionalized MXene Films with Substantially Improved Low-Voltage Actuation.&quot; <i>Advanced Materials</i>. 36(9), 2307045.'
 ---
 
