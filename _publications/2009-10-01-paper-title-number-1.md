@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalization of MXene that improves the in-plane actuation strain, enhances the mechanical property, and stability in air & the electrolyte'
 date: 2023-10-03
 venue: 'Advanced Materials'
-paperurl: 'https://github.com/Harpr33t-Singh/Harpr33t-Singh.github.io/blob/master/files/Paper01.pdf'
+paperurl: /files/Paper01.pdf
 citation: 'Chen, Shaohua, Shu Fen Tan, Harpreet Singh, Liang Liu, Mathieu Etienne, and Pooi See Lee. (2023). &quot; Functionalized MXene Films with Substantially Improved Low-Voltage Actuation.&quot; <i>Advanced Materials</i>. 36(9), 2307045.'
 ---
 
