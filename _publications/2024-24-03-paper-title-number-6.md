@@ -1,5 +1,5 @@
 ---
-title: "Functionalized MXene Films with Substantially Improved Low-Voltage Actuation"
+title: "PLC Based Sensor and Instrumentation for Crop Disease Forecasting System"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalization of MXene that improves the in-plane actuation strain, enhances the mechanical property, and stability in air & the electrolyte'
