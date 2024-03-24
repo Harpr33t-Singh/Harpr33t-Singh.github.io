@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'fundamental analysis of a simple MCS-type photoresist – polymethyl methacrylate (PMMA), is studied and correlated with the parameters of EUV-patterning (called litho-parameters).'
 date: 2020-04-06
-venue: 'GitHub Journal of Bugs'
+venue: 'Journal of Materials Chemistry C'
 paperurl: 'http://Harpr33t-Singh.github.io/files/paper3.pdf'
 citation: 'Rathore, A., Pollentier, I., Singh, H., Fallica, R., De Simone, D., & De Gendt, S (2020). &quot;Paper Title Number 3.&quot; <i>Journal of Materials Chemistry C</i>., 8(17), 5958-5966.'
 ---
