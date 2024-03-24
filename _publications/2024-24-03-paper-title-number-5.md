@@ -1,11 +1,11 @@
 ---
-title: "Functionalized MXene Films with Substantially Improved Low-Voltage Actuation"
+title: "Engineered MoSe<sub>2</sub>/WSe<sub>2</sub> based heterostructures for efficient hydrogen evolution reaction"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalization of MXene that improves the in-plane actuation strain, enhances the mechanical property, and stability in air & the electrolyte'
-date: 2023-10-03
-venue: 'Advanced Materials'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'The present work deals with the investigation of heterostructures of molybdenum selenide (MoSe<sub>2</sub>) and tungsten selenide (WSe<sub>2</sub>) nanosheets prepared through liquid exfoliation method as electrocatalysts for the hydrogen evolution reaction (HER). '
+date: 2021-01-24
+venue: 'Materials Today: Proceeding'
+paperurl: 'http://Harpr33t-Singh.github.io/files/Paper05.pdf'
 ---
 
-Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> MXene film is promising for low-voltage electrochemical actuators (ECAs) due to its excellent electrical conductivity, volumetric capacitance, and mechanical properties. However, its in-plane actuation is limited to little intralayer strain of MXene sheets under polarization. Here it is demonstrated that a simple tetrabutylammonium (TBA) functionalization of MXene improves the in-plane actuation strain by 337% and also enhances the mechanical property and stability in air and the electrolyte. Various in situ characterizations reveal that the improved actuation is ascribed to the co-insertion/desertion of TBA and Li ions into/from MXene interlayer galleries and inter-edge gaps that causes a large in-plane sliding of MXene sheets under negative/positive polarizations. The assembled bending actuator has a high strength and modulus and generates a peak-to-peak strain difference of 0.771% and a blocking force up to 51.5 times its own weight under 1 V. The designed soft robotic tweezer can grasp an object under 1 V and hold it firmly under 0 V. The novel sheet sliding mechanism resembling the filament sliding theory in skeletal muscles may inspire the design of high-performance actuators with other nanomaterials.
+Electrocatalytic water splitting into hydrogen and oxygen using semiconducting heterogeneous nanostructures is a promising and emerging technology. Semiconductor materials based heterogeneous nanostructures have attracted much attention to be used as catalysts, co-catalysts, photocatalysts and photo absorbers. The present work deals with the investigation of heterostructures of molybdenum selenide (MoSe<sub>2</sub>) and tungsten selenide (WSe<sub>2</sub>) nanosheets prepared through liquid exfoliation method as electrocatalysts for the hydrogen evolution reaction (HER). Our experimental studies reveal that MoSe<sub>2</sub>/WSe<sub>2</sub> heterostructures synthesized using hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) exhibits superior HER performance. These novel structures leads to the exposure of more catalytically active sites and maintains effective electron transport, resulting in a small Tafel slope of 80 mV/decay and large electrochemical surface area (ECSA) of 87. This low-cost method finds application in high-performance HER electrocatalyst.
