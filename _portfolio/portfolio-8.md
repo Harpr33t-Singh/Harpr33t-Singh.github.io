@@ -1,5 +1,5 @@
 ---
-title: "Workshop"
+title: "Tutorial"
 excerpt: "<br> <XIX International Workshop on the Physics of Semiconductor Devices - 2017 <br/>"
 collection: portfolio
 ---
