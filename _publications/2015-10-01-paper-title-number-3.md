@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Extreme Ultraviolet-Printability and Mechanistic Studies of Engineered Hydrogen Silsesquioxane Photoresist Systems"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about the EUV-printability study on HSQ photoresist at resolutions of 16 and 22 nm combined with a mechanistic study on EUV- and electron-induced desorption of HSQ films.'
+date: 2021-03-04
+venue: 'ACS Applied Polymer Materials'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>ACS Applied Polymer Materials</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Hydrogen silsesquioxane (HSQ) photoresist has shown extremely high-resolution performance for electron-beam lithography and interference lithography and can be a potential photoresist candidate for extreme ultraviolet lithography (EUVL). To optimize this system for sub-10 nm patterning, it is important to understand the EUV- and electron-induced chemistry underpinning the functionality of this resist material. Here, we present an EUV-printability study on HSQ photoresist at resolutions of 16 and 22 nm combined with a mechanistic study on EUV- and electron-induced desorption of HSQ films. First, patterning results showed that the simple HSQ cages require a high EUV dose and an aggressive developer to print dense features. EUV- and electron-induced desorption experiments revealed that hydrogen and silane are the dominant species fragmented from HSQ, indicating dehydrogenation and redistribution pathways as the cross-linking mechanism. Quantum chemical calculations suggested that neutral dissociation is the dominant mechanism in HSQ cross-linking at low energies, i.e., below its ionization threshold, whereas dissociative ionization contributes significantly at higher energies. A distinct structure is observed at about 8 eV and a clear peak at about 11 eV, indicating a significant contribution through dissociative electron attachment at these energies. Based on these results, an engineered HSQ system is designed by adding silanol or carbinol (R-CH3OH) groups to the partially cross-linked HSQ cages to increase its tetramethylammonium hydroxide (TMAH) developer and EUV sensitivity. Finally, 2.38% v/v TMAH is used to develop a 16 nm printed dense line–space with a line-edge roughness of 6.4 nm but requiring an EUV dose of over 100 mJ/cm2.
