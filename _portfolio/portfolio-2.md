@@ -1,5 +1,5 @@
 ---
-title: "Training and Participations"
+title: "Training"
 excerpt: "<br> Open Science and Data Management - 2022 <br/>"
 collection: portfolio
 ---
