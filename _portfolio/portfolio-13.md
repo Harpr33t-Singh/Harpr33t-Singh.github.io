@@ -1,7 +1,7 @@
 
 ---
 title: "Participation"
-excerpt: "Shaping young minds programme - 2013"
+excerpt: "<br> Shaping young minds programme - 2013 <br/> "
 collection: portfolio
 ---
 
