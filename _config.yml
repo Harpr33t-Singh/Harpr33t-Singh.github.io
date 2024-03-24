@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Harpreet Singh"
 description              : &description "Doctoral student in electrochemistry"
