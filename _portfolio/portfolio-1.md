@@ -1,5 +1,5 @@
 ---
-title: "Training and Participations"
+title: "Training"
 excerpt: "<br> PhD and Carrier development - 2022 <br/>"
 collection: portfolio
 ---
