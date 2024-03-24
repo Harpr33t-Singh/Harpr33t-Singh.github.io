@@ -1,7 +1,7 @@
 ---
-title: "Training"
-excerpt: "<br> Open Science and Data Management - 2022 <br/>"
+title: "Webiniare"
+excerpt: "<br> Webiniare on Atomic emission spectroscopy(AES) -2021 <br/>"
 collection: portfolio
 ---
 
-<img src='/certificates/c2.jpg'>
+<img src='/certificates/c4.jpg'>
