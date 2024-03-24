@@ -1,7 +1,7 @@
 
 ---
 title: "Participation"
-excerpt: "<br> Shaping young minds programme - 2013 <br/> "
+excerpt: "<br> PhD and Carrier development - 2022 <br/> "
 collection: portfolio
 ---
 
