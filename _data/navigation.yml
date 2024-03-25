@@ -6,15 +6,11 @@ main:
   - title: "Education"
     url: /cv/
 
-    
   - title: "Publications"
     url: /publications/
 
   - title: "Conferences"
-    url: /talks/    
-
-  - title: "Patent"
-    url: /patent/    
+    url: /talks/        
         
   - title: "Certificates"
     url: /portfolio/
