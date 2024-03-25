@@ -13,11 +13,8 @@ main:
   - title: "Conferences"
     url: /talks/    
 
-  #- title: "Patent"
-    #url: /teachingaward/    
-    
-  - title: "Achievements & Awards"
-    url: /talkmap/
+  - title: "Patent"
+    url: /teachingaward/    
         
   - title: "Certificates"
     url: /portfolio/
