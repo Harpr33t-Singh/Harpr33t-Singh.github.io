@@ -6,14 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences"
-    url: /talks/    
+  #- title: "Conferences"
+    #url: /talks/    
 
-  - title: "Patent"
-    url: /teaching/    
+  #- title: "Patent"
+   # url: /teaching/    
     
-  - title: "Achievements & Awards"
-    url: /year-archive/
+  #- title: "Achievements & Awards"
+    #url: /year-archive/
         
   - title: "Certificates"
     url: /portfolio/
