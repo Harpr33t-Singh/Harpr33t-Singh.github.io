@@ -15,7 +15,8 @@ redirect_from:
 ## Ph.D in Electrochemistry
 *Laboratoire de Chimie, Physique et Microbiologie pour les Matériaux et l’Environnement (LCPME)*
 *UMR 7564, CNRS / Université de Lorraine, Nancy, FRANCE*
-<span style="color: red; font-size: 10px;">September 2021 - September 2024 (Full time)</span>
+
+<span style="color: blue; font-size: 14px;">September 2021 - September 2024 (Full time)</span>
 
 
 
