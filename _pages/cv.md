@@ -46,7 +46,14 @@ During my undergraduate studies, I delved deeply into electronic systems, coveri
 
 * Group meetings organizer <span style="color: #33ACFF; font-size: 14px;">November 2022 - Octuber 2023 (Full time)</span>
   * ELAN group, LCPME, Nancy, France*
-* Industry 4.0
+* Industry 4.0 <span style="color: #33ACFF; font-size: 14px;">  June 2023 (Full time)</span>
+  *French-German Workshop, Technical University of Kaiserslautern, Germany*
+
+* MOOC PhD and Career Development <span style="color: #33ACFF; font-size: 14px;">  April 2023 (Full time)</span>
+ *PhDOOC association*
+
+* Entrepreneurship <span style="color: #33ACFF; font-size: 14px;">  December 2022 (Full time)</span>
+* DeepTech Tour Lorraine 2022 <span style="color: #33ACFF; font-size: 14px;">  March 2021 (Full time)</span>
 
 
 
