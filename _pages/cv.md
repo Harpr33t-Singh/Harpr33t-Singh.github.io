@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Education
+<div style="text-align:center;">
+  <h1># Education</h1>
+</div>
 ======
 ## Ph.D in Electrochemistry
 *Laboratoire de Chimie, Physique et Microbiologie pour les Matériaux et l’Environnement (LCPME)*
