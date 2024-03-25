@@ -1,4 +1,3 @@
-
 ---
 title: "PLC-Based Sensor and Instrumentation for Crop Disease Forecasting System"
 collection: publications
