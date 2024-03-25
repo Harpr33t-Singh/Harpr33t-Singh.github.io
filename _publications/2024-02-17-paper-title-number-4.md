@@ -6,7 +6,7 @@ excerpt: 'fundamental analysis of a simple MCS-type photoresist – polymethyl m
 date: 2020-04-06
 venue: 'Journal of Materials Chemistry C'
 
-paperurl: 'http://Harpr33t-Singh.github.io/files/Paper04.pdf'
+paperurl: 'http://Harpr33t-Singh.github.io/files/Paper03.pdf'
 
 citation: 'Rathore, A., Pollentier, I., Singh, H., Fallica, R., De Simone, D., & De Gendt, S. (2020). &quot;Effect of molecular weight on the EUV-printability of main chain scission type polymers.&quot; <i>Journal of Materials Chemistry C</i>., 8(17), 5958-5966.'
 ---
