@@ -5,7 +5,9 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This chapter discusses the functionalization, immobilization and stabilization of Biomolecules in Microfluidic Devices'
 date: 2020-10-29
 venue: 'Springer, Singapore'
+
 paperurl: 'http://Harpr33t-Singh.github.io/files/Paper02.pdf'
+
 citation: 'Jha, S. K., Soni, A., Raj, R., Bala, S., Sharma, K., Panwar, S., & Singh, H. (2020). &quot;Functionalization, Immobilization and Stabilization of Biomolecules in Microfluidic Devices.&quot; <i>Springer, Singapore</i>. 509-533.'
 ---
 
