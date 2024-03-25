@@ -16,7 +16,7 @@ redirect_from:
 *Laboratoire de Chimie, Physique et Microbiologie pour les Matériaux et l’Environnement (LCPME)*
 *UMR 7564, CNRS / Université de Lorraine, Nancy, FRANCE*
 
-<span style="color: blue; font-size: 14px;">September 2021 - September 2024 (Full time)</span>
+<span style="color: #33ACFF; font-size: 14px;">September 2021 - September 2024 (Full time)</span>
 
 *Micro-scale properties of 2D MXenes for electrochemical actuators*
 
