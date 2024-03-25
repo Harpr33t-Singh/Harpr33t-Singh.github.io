@@ -6,7 +6,7 @@ excerpt: 'This paper is about the EUV-printability study on HSQ photoresist at r
 date: 2021-03-04
 venue: 'ACS Applied Polymer Materials'
 
-paperurl: 'http://Harpr33t-Singh.github.io/files/Paper03.pdf'
+paperurl: 'http://Harpr33t-Singh.github.io/files/Paper04.pdf'
 
 citation: 'Rathore, A., Pollentier, I., Cipriani, M., Singh, H., De Simone, D., Ingolfsson, O., & De Gendt, S.  (2021). &quot;Extreme Ultraviolet-Printability and Mechanistic Studies of Engineered Hydrogen Silsesquioxane Photoresist Systems.&quot; <i>ACS Applied Polymer Materials</i>. 1964-1972.'
 ---
