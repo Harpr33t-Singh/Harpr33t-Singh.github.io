@@ -2,7 +2,7 @@
 title: "A System for Carrying Out Rapid Detection of Pathogens"
 collection: teaching
 type: "Patent"
-permalink: /2024-24-03-paper-title-number-6
+permalink: /2024-24-03-paper-title-number-7
 venue: "Indian Institute of Technology"
 date: 2021-08-31
 location: "New Delhi, India"
