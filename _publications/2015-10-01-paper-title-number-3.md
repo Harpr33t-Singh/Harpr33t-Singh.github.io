@@ -5,7 +5,9 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the EUV-printability study on HSQ photoresist at resolutions of 16 and 22 nm combined with a mechanistic study on EUV- and electron-induced desorption of HSQ films.'
 date: 2021-03-04
 venue: 'ACS Applied Polymer Materials'
+
 paperurl: 'http://Harpr33t-Singh.github.io/files/Paper03.pdf'
+
 citation: 'Rathore, A., Pollentier, I., Cipriani, M., Singh, H., De Simone, D., Ingolfsson, O., & De Gendt, S.  (2021). &quot;Extreme Ultraviolet-Printability and Mechanistic Studies of Engineered Hydrogen Silsesquioxane Photoresist Systems.&quot; <i>ACS Applied Polymer Materials</i>. 1964-1972.'
 ---
 
