@@ -3,14 +3,18 @@ main:
   - title: "CV"
     url: /files/HarpreetSINGH.pdf 
     
+  - title: "Education"
+    url: /cv/
+
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Conferences"
     url: /talks/    
 
-  - title: "Patent"
-    url: /teachingaward/    
+  #- title: "Patent"
+    #url: /teachingaward/    
     
   - title: "Achievements & Awards"
     url: /talkmap/
