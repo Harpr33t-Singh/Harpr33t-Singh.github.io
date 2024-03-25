@@ -12,8 +12,8 @@ main:
   - title: "Patent"
     url: /teaching/    
     
-  #- title: "Achievements & Awards"
-    #url: /year-archive/
+  - title: "Achievements & Awards"
+    url: /year-archive/
         
   - title: "Certificates"
     url: /portfolio/
