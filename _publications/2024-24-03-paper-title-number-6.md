@@ -1,3 +1,4 @@
+# Patent
 ---
 title: "A System for Carrying Out Rapid Detection of Pathogens"
 collection: teaching
