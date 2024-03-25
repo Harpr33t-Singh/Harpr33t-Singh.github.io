@@ -12,4 +12,4 @@ Indian Patent cum PCT application no. 202011037535
 
 PCT/IN2021/050840 PCT
 
-[For more information please visit a link]([https://www.google.com](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
+[For more information please click here]([https://www.google.com](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
