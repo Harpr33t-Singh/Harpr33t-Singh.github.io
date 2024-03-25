@@ -51,7 +51,17 @@ During my undergraduate studies, I delved deeply into electronic systems, coveri
 * MOOC PhD and Career Development, PhDOOC association <span style="color: #33ACFF; font-size: 14px;">  April 2023</span>
 
 * Entrepreneurship <span style="color: #33ACFF; font-size: 14px;">  December 2022</span>
-* DeepTech Tour Lorraine 2022 <span style="color: #33ACFF; font-size: 14px;">  March 2021 (Full time)</span>
+* DeepTech Tour Lorraine 2022 <span style="color: #33ACFF; font-size: 14px;">  March 2021</span>
+
+---
+
+# ACHIEVEMENTS
+
+* DrEAM mobility grant by the Université de Lorraine within the framework of the Lorraine Université d'Excellence Initiative (LUE) for carrying out a three-month research activity abroad.<span style="color: #33ACFF; font-size: 14px;">  June 2023 - August 2023</span>
+  
+* Award for Best paper presentation on “Engineered MoSe<sub>2</sub>/WSe<sub>2</sub> based heterostructures for efficient hydrogen evolution reaction” at 2nd International Conference on Aspects of Materials Science and Engineering" ICAMSE2021 organized by Panjab University Chandigarh.<span style="color: #33ACFF; font-size: 14px;">  March 2021</span>
+
+* ERIMEC-scholarship provided by the Director of Teaching & Learning Processes, Leuven, Belgium acting as a representative of ‘The university or institute for higher education for performing the research on organinc and inorganic EUV photoresist materials.<span style="color: #33ACFF; font-size: 14px;">  August 2018 - May 2019</span>
 
 
 
