@@ -24,10 +24,10 @@ By leveraging my expertise in circuits and sensors, I spearheaded the developmen
 
 Before my tenure at IIT, I interned at IMEC's Advanced Patterning Group in Leuven, Belgium, where I focused on studying cross-linking type EUV-resist platforms to enhance lithography for high-volume manufacturing. Throughout this internship, I developed proficiency in handling thin films and conducting analyses using spectroscopy and chromatography techniques. These skills contributed to ongoing efforts to refine EUV lithography processes, aiming to advance semiconductor manufacturing capabilities.
 
-## Master Thesis (Aug. 2017 - June 2018)
+## Master's Thesis (Aug. 2017 - June 2018)
 
 In my master's thesis, I investigated the catalytic potential of MoSe2/WSe2 heterostructures for the Hydrogen Evolution Reaction (HER). This involved hands-on experience with material handling and wet chemistry techniques, coupled with analytical and electrochemical analysis methods. Through synthesizing and characterizing these heterostructures, I gained insights into their catalytic activity for HER. This research contributes to the broader understanding of transition metal dichalcogenide-based catalysts and holds promise for advancing sustainable energy technologies by providing efficient solutions for hydrogen evolution.
 
-## Bachelor Thesis (Jan 2015 - June 2015)
+## Bachelor's Thesis (Jan 2015 - June 2015)
 
 Throughout my bachelor's thesis project, I acquired skills in managing data acquisition systems and constructing predictive models aimed at early forecasting of crop disease severity. This initiative serves to assist farmers in optimizing pesticide usage for more efficient pest control measures.
