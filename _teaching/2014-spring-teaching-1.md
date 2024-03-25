@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "A System for Carrying Out Rapid Detection of Pathogens"
 collection: teaching
-type: "Undergraduate course"
+type: "Patent"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Indian Institute of Technology"
+date: 2021-08-31
+location: "New Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Indian Patent cum PCT application no. 202011037535
+PCT/IN2021/050840 PCT
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[For more information please visit a link]([https://www.google.com](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
