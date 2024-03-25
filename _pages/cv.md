@@ -22,6 +22,22 @@ redirect_from:
 
 My research aims to study the performance of surface-modified MXene-based electrodes as electrochemical actuators. The motivation behind this project is to use in-situ techniques to understand the relationship between surface modification and intercalation/deintercalation processes for the micro-structuring of electrodes for improved performance.
 
+---
+
+## Master's in Nanoscience and Nanotechnology
+*Department of Nanoscience & Nanotechnology*
+*Panjab University, Chandigarh, India*
+
+<span style="color: #33ACFF; font-size: 14px;">July 2016 - June 2018 (Full time)</span>
+
+The focus of my study was to learn the methods and techniques required for research on nanomaterials, their synthesis, characterization, and applications. During my studies, I acquired theoretical and practical experience with spectroscopy and electrochemical techniques and studied porous Mose<sub>2</sub>/Wse<sub>2</sub> heterostructures for hydrogen evolution reaction.
+
+---
+
+
+
+
+
 
 
 
