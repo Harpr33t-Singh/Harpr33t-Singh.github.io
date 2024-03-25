@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![My journey]()
 I am electrochemist with strong expertise in synthesis, In-situ characterization of materials (nanomaterials/2D materials) and system develompent such as electrochemical systems, sensors and devices.
 
 # Work Experience
