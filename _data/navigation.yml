@@ -10,7 +10,7 @@ main:
     url: /publications/
 
      - title: "Patent"
-    url: /patent/ 
+    url: /teaching/ 
 
   - title: "Conferences"
     url: /talks/        
