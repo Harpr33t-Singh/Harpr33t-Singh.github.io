@@ -18,6 +18,10 @@ redirect_from:
 
 <span style="color: blue; font-size: 14px;">September 2021 - September 2024 (Full time)</span>
 
+*Micro-scale properties of 2D MXenes for electrochemical actuators*
+
+My research aims to study the performance of surface-modified MXene-based electrodes as electrochemical actuators. The motivation behind this project is to use in-situ techniques to understand the relationship between surface modification and intercalation/deintercalation processes for the micro-structuring of electrodes for improved performance.
+
 
 
 
