@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div style="text-align:center;">
-  <h1><u>Education</u></h1>
+  <h1><u> # Education</u></h1>
 </div>
 
 ## PH.D IN ELECTRONICS AND COMMUNICATION
@@ -33,7 +33,7 @@ The objective of my research is to examine the efficacy of surface-modified MXen
 My academic focus centered on acquiring expertise in researching nanomaterials, encompassing their synthesis, characterization, and various applications. Throughout my studies, I gained both theoretical knowledge and hands-on experience with spectroscopy and electrochemical techniques. Specifically, I conducted research on porous MoSe<sub>2</sub>/WSe<sub>2</sub> heterostructures, particularly investigating their potential for the hydrogen evolution reaction.
 
 ---
-# BACHELOR'S IN ELECTRONICS AND COMMUNICATION
+## BACHELOR'S IN ELECTRONICS AND COMMUNICATION
 *Punjab Technical University, Jalandhar, Punjab*
 
 <span style="color: #33ACFF; font-size: 14px;">August 2011 - June 2015 (Full time)</span>
@@ -42,7 +42,7 @@ During my undergraduate studies, I delved deeply into electronic systems, coveri
 
 ---
 
-# EXTRA CURICULLAR ACTIVITIES
+## EXTRA CURICULLAR ACTIVITIES
 
 * Group meetings organizer, ELAN group, LCPME, Nancy, France <span style="color: #33ACFF; font-size: 14px;">November 2022 - Octuber 2023</span>
 
@@ -55,7 +55,7 @@ During my undergraduate studies, I delved deeply into electronic systems, coveri
 
 ---
 
-# ACHIEVEMENTS
+## ACHIEVEMENTS
 
 * DrEAM mobility grant by the Université de Lorraine within the framework of the Lorraine Université d'Excellence Initiative (LUE) for carrying out a three-month research activity abroad.<span style="color: #33ACFF; font-size: 14px;">  June 2023 - August 2023</span>
   
