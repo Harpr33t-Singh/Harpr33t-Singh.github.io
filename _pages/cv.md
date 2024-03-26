@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <div style="text-align:center;">
-  <h1><u> # Education</u></h1>
+  <h1><u>  Education </u></h1>
 </div>
 
 ## PH.D IN ELECTRONICS AND COMMUNICATION
