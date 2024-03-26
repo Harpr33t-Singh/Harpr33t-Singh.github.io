@@ -15,7 +15,6 @@ redirect_from:
 ## PH.D IN ELECTRONICS AND COMMUNICATION
 *Laboratoire de Chimie, Physique et Microbiologie pour les Matériaux et l’Environnement (LCPME)*
 *UMR 7564, CNRS / Université de Lorraine, Nancy, FRANCE*
-
 <span style="color: #33ACFF; font-size: 14px;">September 2021 - September 2024 (Full time)</span>
 
 *Micro-scale properties of 2D MXenes for electrochemical actuators*
@@ -27,7 +26,6 @@ The objective of my research is to examine the efficacy of surface-modified MXen
 ## MASTER'S IN NANOSCIENCE AND NANOTECHNOLOGY
 *Department of Nanoscience & Nanotechnology*
 *Panjab University, Chandigarh, India*
-
 <span style="color: #33ACFF; font-size: 14px;">July 2016 - June 2018 (Full time)</span>
 
 My academic focus centered on acquiring expertise in researching nanomaterials, encompassing their synthesis, characterization, and various applications. Throughout my studies, I gained both theoretical knowledge and hands-on experience with spectroscopy and electrochemical techniques. Specifically, I conducted research on porous MoSe<sub>2</sub>/WSe<sub>2</sub> heterostructures, particularly investigating their potential for the hydrogen evolution reaction.
@@ -35,7 +33,6 @@ My academic focus centered on acquiring expertise in researching nanomaterials, 
 ---
 ## BACHELOR'S IN ELECTRONICS AND COMMUNICATION
 *Punjab Technical University, Jalandhar, Punjab*
-
 <span style="color: #33ACFF; font-size: 14px;">August 2011 - June 2015 (Full time)</span>
 
 During my undergraduate studies, I delved deeply into electronic systems, covering both digital and analog circuits, as well as DACs and ADCs, along with signal design and implementation. I honed my programming skills to integrate these elements effectively, maximizing their performance. Subsequently, I applied this combined knowledge to develop data acquisition systems for projects and to create predictive models aimed at early forecasting of crop disease severity. This endeavor serves to assist farmers in optimizing pesticide usage for more efficient pest control practices.
