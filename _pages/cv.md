@@ -12,7 +12,7 @@ redirect_from:
   <h1><u> Education </u></h1>
 </div>
 
-## PH.D IN ELECTRONICS AND COMMUNICATION
+## PH.D IN ELECTROCHEMISTRY
 *Laboratoire de Chimie, Physique et Microbiologie pour les Matériaux et l’Environnement (LCPME)*
 *UMR 7564, CNRS / Université de Lorraine, Nancy, FRANCE*
 
