@@ -3,7 +3,7 @@ title: "An optical glucometer using saliva as a medium"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'An optical glucometer using saliva as a medium'
-date: 2021-01-24
+date: 2023-11-23
 venue: 'Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy'
 
 paperurl: ''
@@ -11,5 +11,5 @@ paperurl: ''
 
 ---
 
-Submitted and under process
+Submitted and under process.
 
