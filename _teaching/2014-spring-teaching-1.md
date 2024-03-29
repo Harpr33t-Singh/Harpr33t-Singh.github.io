@@ -8,4 +8,5 @@ date: 2021-08-31
 location: "New Delhi, India"
 ---
 **European Patent** application no. No. 21860791.9 filed on 28-3-2023
+
 [For more information please click here](https://register.epo.org/application?number=EP21860791&tab=main)
