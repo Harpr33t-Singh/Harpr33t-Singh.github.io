@@ -1,7 +1,7 @@
 ---
 title: "PLC-Based Sensor and Instrumentation for Crop Disease Forecasting System"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2024-03-29-paper-title-number-6
 excerpt: 'The objective of this paper is to develop a predictive model for early forecasting of disease severity for Picrorhiza kurroa and Apple with optimum efficiency, which help to farmers for management and control of use of pesticides to reduce the loss in economical cost and also beneficial to the environment and human health. '
 date: 2015-05-11
 venue: 'International Journal of Engineering and Innovative Technology (IJEIT)'
