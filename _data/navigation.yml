@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "CV_EN"
-    url: /files/HarpreetSINGH-EN.pdf 
-
-    - title: "CV_FR"
-    url: /files/HarpreetSINGH-FR.pdf 
+  - title: "CV"
+    url: /files/HarpreetSINGH.pdf 
     
   - title: "Education"
     url: /cv/
