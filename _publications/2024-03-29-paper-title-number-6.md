@@ -6,7 +6,7 @@ excerpt: 'The objective of this paper is to develop a predictive model for early
 date: 2015-05-11
 venue: 'International Journal of Engineering and Innovative Technology (IJEIT)'
 
-paperurl: 'http://Harpr33t-Singh.github.io/files/Paper05.pdf'
+paperurl: 'http://Harpr33t-Singh.github.io/files/Paper06.pdf'
 
 citation: Shivling, V.D. and Sharma, S.K. and Ghanshyam, C. and Singh, Harpreet and Dogra, Shubhani (2015). &quot;PLC-Based Sensor and Instrumentation for Crop Disease Forecasting System.&quot; <i>International Journal of Engineering and Innovative Technology (IJEIT)</i>., 8(17), 45, 4787-4791.4 (11). pp. 69-73. ISSN 2277-3754'
 ---
