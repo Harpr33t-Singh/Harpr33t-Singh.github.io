@@ -1,7 +1,7 @@
 ---
 title: "Engineered MoSe<sub>2</sub>/WSe<sub>2</sub> based heterostructures for efficient hydrogen evolution reaction"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2024-03-24-paper-title-number-5
 excerpt: 'The present work deals with the investigation of heterostructures of molybdenum selenide (MoSe<sub>2</sub>) and tungsten selenide (WSe<sub>2</sub>) nanosheets prepared through liquid exfoliation method as electrocatalysts for the hydrogen evolution reaction (HER). '
 date: 2021-01-24
 venue: 'Materials Today: Proceeding'
