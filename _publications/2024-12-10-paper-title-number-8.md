@@ -1,11 +1,13 @@
 ---
-title: "Functionalized MXene Films with Substantially Improved Low-Voltage Actuation"
+title: "Understanding In-Plane Sliding of Functionalized Ti3C2Tx MXene by In Situ Microscale Analysis of Electrochemical Actuation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: 'This paper is about the simple tetrabutylammonium (TBA) functionalization of MXene that improves the in-plane actuation strain, enhances the mechanical property, and stability in air & the electrolyte'
-date: 2023-10-03
-venue: 'Advanced Materials'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/2024-12-10-paper-title-number-8
+excerpt: 'This paper investigates the electrochemical actuation of Ti3C2Tx MXene using techniques like Raman spectroscopy, AFM, and SECM, revealing that methylcellulose functionalization enhances in-plane vibrations and buckling actuation under applied potentials, leading to improved performance.'
+date: 2024-10-01
+venue: 'Chemistry of Materials'
+paperurl: 'http://academicpages.github.io/files/paper07.pdf'
 ---
 
-Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> MXene film is promising for low-voltage electrochemical actuators (ECAs) due to its excellent electrical conductivity, volumetric capacitance, and mechanical properties. However, its in-plane actuation is limited to little intralayer strain of MXene sheets under polarization. Here it is demonstrated that a simple tetrabutylammonium (TBA) functionalization of MXene improves the in-plane actuation strain by 337% and also enhances the mechanical property and stability in air and the electrolyte. Various in situ characterizations reveal that the improved actuation is ascribed to the co-insertion/desertion of TBA and Li ions into/from MXene interlayer galleries and inter-edge gaps that causes a large in-plane sliding of MXene sheets under negative/positive polarizations. The assembled bending actuator has a high strength and modulus and generates a peak-to-peak strain difference of 0.771% and a blocking force up to 51.5 times its own weight under 1 V. The designed soft robotic tweezer can grasp an object under 1 V and hold it firmly under 0 V. The novel sheet sliding mechanism resembling the filament sliding theory in skeletal muscles may inspire the design of high-performance actuators with other nanomaterials.
+Electrochemical actuation is based on the deformation of electrodes upon applying a mild potential (usually in the range of ± 5 V in a single cell). In this work, in situ local analysis of the electrochemical actuation of Ti3C2Tx (T = −O, −OH, −F) MXene at the microscale is achieved by Raman spectroscopy, atomic force microscopy (AFM), and scanning electrochemical microscopy (SECM) while applying potential in an electrochemical cell. First, Raman spectra recorded at a steady state with different potentials confirm the intercalation/deintercalation of Li+ ions, resulting in the change of out-of-plane vibrations due to the interaction of Li+ with the −O and −OH surface group atoms of MXene. A methylcellulose functionalization of the MXene films results in more freedom for in-plane vibrations. Second, SECM is applied to visualize the deformation of two-end-fixed MXene films both at a steady state (0 V vs Ag/AgCl QRE) and at scanning potential. The results show buckling-type actuation, which is more pronounced for methylcellulose-functionalized samples. Electrochemical AFM provides evidence of a significant in-plane sliding of the MXene flakes. Out-of-plane changes appear to be negligible in the actuation mechanism, as supported by the AFM approach curve analysis. Overall, the methylcellulose-functionalized MXene shows better actuation performance, especially in the in-plane direction and at a high frequency. The mechanism is then discussed.
+
+
